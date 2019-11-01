@@ -1,0 +1,10 @@
+Prezes,1
+Donald Tusk,2
+premier_Szydlo,3
+Korwin,2
+Duda,0
+Kwasniewski,0
+Sikorski,0
+Duda,0
+Niesiolowski,0
+Miller,0

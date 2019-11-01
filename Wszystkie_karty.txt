@@ -1,0 +1,16 @@
+50,150,Pospolita,/Duda.jpg,Duda,4,PIS
+50,200,Pospolita,/Kwasniewski.jpg,Kwasniewski,2,PIS
+100,200,Niepospolita,/Schetyna.jpg,Z chetyna,17,PO
+20,300,Niepospolita,/Korwin.jpg,Korwin,9,Nowa Prawica
+120,580,Unikat,/Palikot.jpg,Palikot,2,Ruch Palikota
+100,100,Rzadka,/Bronek.jpg,Bronislaw Maria Komorowski,4,PO
+80,150,Rzadka,/Prezes.jpg,Balcerowicz,5,PIS
+30,400,Rzadka,/Szydlo.jpg,premier_Szydlo,6,PIS
+25,189,Legendarna,/Donald.jpg,Donald Tusk,2,PO
+140,400,Legendarna,/Gomulka.jpg,Gomulka,2,Narodowcy
+50,280,Mityczna,/Kalisz.jpg,Kalisz,10,PSL
+50,280,Mityczna,/Miller.jpg,Miller,16,PSL
+50,280,Mityczna,/Petru.jpg,Petru,5,Nowoczesna
+50,280,Mityczna,/Sikorski.jpg,Sikorski,5,PO
+50,280,Mityczna,/Niesiolowski.jpg,Niesiolowski,8,PO
+50,280,Mityczna,/Prezes.jpg,Prezes,4,PIS
